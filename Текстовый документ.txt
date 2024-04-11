@@ -100,4 +100,4 @@ async def play_song(ctx, url):
     # Отключаемся от голосового канала
     await voice_client.disconnect()
 
-bot.run("MTIyMTExOTkwMzEwNTQyMTQxNA.GrFQ1A.E4y3CU-5HJe4WijdLhUpYRfoNLuLzTWC3vlp9I")
+bot.run("")
